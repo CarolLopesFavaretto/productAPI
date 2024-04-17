@@ -1,0 +1,6 @@
+com/br/product/model/Product.class
+com/br/product/service/ProductService.class
+com/br/product/configuration/DymanoDBConfig.class
+com/br/product/ProductApplication.class
+com/br/product/repository/ProductRepository.class
+com/br/product/controller/ProductController.class
